@@ -1,0 +1,16 @@
+.costs {
+    padding: 1rem;
+    background-color: #aac4d1;
+    margin: 2rem auto;
+    width: 70rem;
+    max-width: 95%;
+    /*border-radius: 10px;*/
+    /*box-shadow: 0 1px 7px rgba(0, 0, 0, 0.25);*/
+}
+
+.costs-no {
+    color: #333333;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 0 1rem;
+}
